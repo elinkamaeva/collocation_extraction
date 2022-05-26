@@ -7,7 +7,8 @@ The code was written in the Python programming language. For our purposes, the f
 * SymPy
 * SciPy
 * pymorphy2
-* NLTK
+* NLTK  
+
 This project contains 8 files and folders:
 * Collocation extraction.ipynb
 * UD_Russian-SynTagRus
@@ -16,5 +17,6 @@ This project contains 8 files and folders:
 * all_cyberleninka_chemystry2.txt
 * chemistry.txt
 * chemistry_new.txt
-* w2v_chem.model
+* w2v_chem.model  
+
 You can see all the main steps in a file called _Collocation extraction.ipynb_
