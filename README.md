@@ -20,3 +20,4 @@ This project contains 8 files and folders:
 * w2v_chem.model  
 
 You can see all the main steps in a file called _Collocation extraction.ipynb_
+All other files are located at the link: https://drive.google.com/drive/folders/1IXD4VF6iOVHd4GwZWZqh2HkZBRV_Ps3x?usp=sharing
